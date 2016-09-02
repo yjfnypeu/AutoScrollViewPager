@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.lzh.view.viewpagerlib.AutoScrollViewPager
+        android:id="@+id/component_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.lzh.view.viewpagerlib.BannerView
+        android:layout_gravity="bottom|center"
+        android:id="@+id/component_banner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</merge>
